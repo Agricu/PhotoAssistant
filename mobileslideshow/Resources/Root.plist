@@ -65,7 +65,7 @@
 			<key>cell</key>
 			<string>PSButtonCell</string>
 			<key>label</key>
-			<string>my website</string>
+			<string>My Website</string>
 			<key>action</key>
 			<string>gotoMyPage</string>
 			<key>hasIcon</key>
@@ -77,7 +77,7 @@
 			<key>cell</key>
 			<string>PSButtonCell</string>
 			<key>label</key>
-			<string>Add to Cydia repo</string>
+			<string>Add My Repo on Cydia 📦</string>
 			<key>action</key>
 			<string>donate</string>
 			<key>hasIcon</key>
