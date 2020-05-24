@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>Add My Repo on Cydia 📦</key>
-	<string>在Cydia中添加我的源📦</string>
+	<string>Add My Repo on Cydia 📦</string>
 	<key>Delete Enable</key>
-	<string>删除确认功能禁用</string>
+	<string>Delete Enable</string>
 	<key>Enable this feature to disable delete confirmation</key>
-	<string>启用此功能禁用删除确认。</string>
+	<string>Enable this feature to disable delete confirmation</string>
 	<key>Enable this feature to show file size at the top of the photo</key>
-	<string>启用此功能可以在照片顶部显示文件大小。</string>
+	<string>Enable this feature to show file size at the top of the photo</string>
 	<key>My Website</key>
-	<string>我的网站</string>
+	<string>My Website</string>
 	<key>Photo Assistant</key>
-	<string>照片™助手</string>
+	<string>Photo Assistant</string>
 	<key>PhotoInfo Enable</key>
-	<string>照片信息功能启用</string>
+	<string>PhotoInfo Enable</string>
 	<key>Reload SpringBoard</key>
-	<string>重新加载SpringBoard</string>
+	<string>Reload SpringBoard</string>
 	<key>Sign out of the device for the settings to take effect</key>
-	<string>重新加载SpringBoars使设置生效。</string>
+	<string>Sign out of the device for the settings to take effect</string>
 	<key>View source code</key>
-	<string>查看源代码</string>
+	<string>View source code</string>
 </dict>
 </plist>
