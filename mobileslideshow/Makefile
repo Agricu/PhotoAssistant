@@ -7,7 +7,7 @@ mobileslideshow_INSTALL_PATH = /Library/PreferenceBundles
 mobileslideshow_FRAMEWORKS = UIKit
 mobileslideshow_PRIVATE_FRAMEWORKS = Preferences
 mobileslideshow_CFLAGS = -fobjc-arc
-
+ARCHS = arm64 arm64e armv7s
 include $(THEOS_MAKE_PATH)/bundle.mk
 
 internal-stage::
